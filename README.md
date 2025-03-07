@@ -1,6 +1,6 @@
 # EventEcho - Concert Booking App
 
-EventEcho is a concert booking application that allows users to browse available concerts, book tickets, and manage their bookings. The app is built using Django for the backend (with SQLite as the database) and React for the frontend.
+EventEcho is a concert booking application that allows users to browse available concerts, book tickets, and manage their bookings. The app is built using Django for the backend and React for the frontend.
 
 ## Features
 
